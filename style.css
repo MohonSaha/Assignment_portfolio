@@ -1,0 +1,79 @@
+.font-style{
+    font-family: 'Libre Baskerville', serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+}
+.line-space{
+    line-height: 27px;
+}
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 8%;
+}
+.half-width img{
+    width: 70%;  
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(255, 56, 56),rgb(179, 53, 238));
+    /* background-color: orange ; */
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.orange{
+    color: rgb(236, 81, 81);
+}
+#top-padd{
+    padding-top: 7%;
+}
+.mission-center{
+    text-align: center;
+    font-size: 47px;
+}
+.third-width{
+    width: 23%;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 4%;
+}
+.third-width img{
+    width: 30%; 
+}
+section{
+    margin-bottom: 100px;
+}
+.mission{
+    background-color: rgba(161, 228, 221, 0.308);
+    margin-right: 5px;
+    margin-left: 8%;
+    border-radius: 15px;
+}
+.vission{
+    background-color: rgba(194, 116, 127, 0.308);
+    margin-right: 5px;
+    margin-left: 8%;
+    border-radius: 15px;
+}
+.goals{
+    background-color: rgba(68, 25, 255, 0.308);
+    margin-right: 5px;
+    margin-left: 8%;
+    border-radius: 15px;
+}
+
+.custom-width img{
+    width: 50%;
+    margin-left: 14.5%;
+}
+.custom-area{
+    text-align: left;
+
+}

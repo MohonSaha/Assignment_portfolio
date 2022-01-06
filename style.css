@@ -4,6 +4,13 @@ body{
 .font-style{
     font-family: 'Libre Baskerville', serif;
 }
+.left-side{
+    border-left: 3px solid;
+    border-color: tomato;
+    border-image-slice: 1;
+    border-radius: 2px;
+    padding-left: 3%;
+}
 h1{
     font-size: 50px;
 }
@@ -71,7 +78,23 @@ section{
     margin-left: 8%;
     border-radius: 15px;
 }
+.back-pic{
+    background-image: url(images/illustrator/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 18%;
+    margin-left: 1%;
+    /* margin-bottom: 50%; */
+}
+.back-pic-2nd{
+    background-image: url(images/illustrator/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 75% 25%;
+    /* padding-right: 30%; */
+    /* margin-right: 10%; */
 
+    background-size: 28%;
+}
 .custom-width img{
     width: 50%;
     margin-left: 14.5%;
@@ -96,3 +119,5 @@ section{
     color:white;
     text-align: center;   
 }
+
+

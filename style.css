@@ -1,3 +1,6 @@
+body{
+    margin: 0% 0%;
+}
 .font-style{
     font-family: 'Libre Baskerville', serif;
 }
@@ -75,5 +78,21 @@ section{
 }
 .custom-area{
     text-align: left;
-
+}
+.agri-web-area{
+    padding-top: 10%;
+    padding-left: 5%;
+}
+.agri-web-img-area{
+    margin-left: 3%;
+}
+.foot-area{
+    background-color: black;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin: 0% 0%;
+}
+.foot-font-style{
+    color:white;
+    text-align: center;   
 }
